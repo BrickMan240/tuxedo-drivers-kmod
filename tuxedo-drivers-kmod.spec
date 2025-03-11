@@ -5,7 +5,7 @@
 
 Name:     tuxedo-drivers-kmod
 <<<<<<< HEAD
-Version:  4.12.1
+Version:  4.12.2
 =======
 Version:  4.12.2
 >>>>>>> cf513e4d322e342f19a2c0fe9058e5151c39ca69
